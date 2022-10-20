@@ -1,0 +1,63 @@
+Chap1.
+What is True? Computer Forensics deals with the process of finding evidence related to a digital crime to find the culprits and initate legal action
+
+What is an objective of CF? Track and prosecute the perptrators in a court of law |  Identify, Gather, and preserve the evidence of a crime | | Interpret, document, and present evidence to be admissible during prosecution.
+
+Forensic readiness? An organization ability to make optimal use of digital evidence in a limited time period and with minimal investigation costs. 
+
+What is  an impact of cyber crime? Reputation damage, Theft of sensitive data, loss of trust from customers and stakeholders.
+
+What is true of cybercrimes? Investigators with a warrant have the authority to serize the computing devices. 
+
+What is true of civil crimes? The inital reporting of the evidence is generally informal. 
+
+What is a user-created source for evidence? Address book.    What is not? Print spooler, Cookies, Log files. 
+
+What is a computer-created source? SWAP file
+
+What is not a location for evidence? Processor.     What is location for evidence? Smart Card, Digital Camera, Thumb drive.
+
+Under which condition will duplicate evidence not suffice? When original evidence is in possesion of the originator. If you created the duplicate you need to give original evidence.
+When will duplicate suffice? Original evidence destroyed in fire or flood, Orignal destroyed in normal business operations, orginal is in possession of third party. 
+
+Which rule contains rulings on evidence? 103
+
+Which of the following Rules of Evidence ensure that the truth may be ascertained and the proceeding justly determined? 102 unjustifiable expense and delay
+
+Which of the following Rules of Evidence ensures courts follow proper proceedings? 101
+
+Which of the following Rules of Evidence states the court shall restrict the evidence to its proper scope and instruct the jury accordingly? 105
+
+Minimize the tanglible and intangible losses. 
+
+Cybercrimes can be classified into the following two types based on the line of attack: Internal and External. 
+
+Espionage, theft of intellectual property, manipulating of records, and Trojan horse attacks are examples of what? 
+insider attacks or primary threats. 
+
+External attacks occur when there are inadequate information-security policies and procedures. 
+
+Which type of cases involve disputes between two parties? Civil.
+
+A computer forensic examiner must not continue with the investigation if the examination is going beyond their skill level. 
+
+Enterprise Theory of Investigation (ETI) Is what the FBI uses. 
+
+Inceident Response addresses the occurence of any security breach. 
+
+What is not a principle that a computer investigator must follow? Provide personal or prejudiced opinions. 
+What is a principle a CFI must follow?  Act with utmost ethical and moral principles, ensure integrity, act with accordnance of laws
+
+authenticating or identifying evidence comes under  which rule? 901
+
+What required companies that offer financial products or services to protect customer information? GLBA - The Gramm-Leach-Bliley Act 
+
+Health info? HIPPA
+
+What is the act passed by congress to protect investors from the possibility of fraudulent accouting activities. SOX public traded companies and protects investors. 
+
+Proprietary information stand for debit, credit, e-purse, ATM, POS cards? PCI DSS
+
+Chap1
+Chap2
+

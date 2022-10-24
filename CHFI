@@ -158,4 +158,16 @@ In secotr addressing, _______ determines the address of the individual sector on
 _____ is a 128 bit unique referece number used as an id in computer software. GUID Global Unique Identifier. 
 
 
+Mac uses Hierarchial File system. True
+
+The main advantage of raid is that if a single physical disk fails, __________. 
+The system will continue to function without loss of data. 
+
+the command fssat displays details associated with an image file. False
+display details associated with a file system
+
+What is the simplest Raid level that does not involve any redundancy and fragments file into the user-defined stripe size of the array?
+0
+
+
 

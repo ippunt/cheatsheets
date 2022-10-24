@@ -143,6 +143,10 @@ EXT3. Dugg EXT2 no journaling. No journaling not much forensics.
 How many bit values does HFS use to address allocation blocks? 16
 
 
+What UFS file system part if composed of a few blocks in the partition reserved at the beginning? Boot Blocks
 
+What is a machine readable language used in major digital operations, such as sending and receiving emails? ASCII
+
+What is JPEG an acronym of?  Joint Photographic Experts Group
 
 

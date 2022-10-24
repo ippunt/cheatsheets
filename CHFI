@@ -98,4 +98,51 @@ Data duplication includes bit-by-bit copying of original data using software or 
 
 Chap2
 Chap3
+What is not a digital data storage type? Quantum yet, but optical, magnetic and flash are.
+
+Not a windows file system? EXT3, but FAT, FAT32 and NTFS are.
+
+which number type refers to volme descriptor as primary? 1 Primary, 2 supplementary, 3 partition descriptor, 255 set terminator.
+
+which logical drive holds the information regarding the data and files that are stored in the disk? Extended Partition. 
+
+How large is the partition table structure that stores information about the partitions present on the disk? 64 Bytes.
+
+How many bytes are used on the disk signature within MBR?  2 Bytes
+
+In the GUID partition table which logical block contains the Partition entry array? LBA2, 
+ LBA scheme replaces earlier schemes which exposed the physical details of the storage device to the software of the operating system
+
+Which of the following desribes when the user restarts the system via the OS? Warm Booting.
+
+Which OS system powers on and starts up using either the tradition method or the new UEFI-GPT?
+Windows 8.
+
+Which of the following basic partitioning tools displays about GPT partition tables in the windows OS. Diskpart
+
+
+What stage of the Linux Boot Process inclused the task loading the Linux kernel and optional initial RAM disk?
+Boot loader stage
+
+What component of a typical FAT file system consists of data that the document framewrk uses to access the volumne?
+Boot Sector
+
+Which component of the NTFS architecture is a computer system file driver for NTFS?
+NTFS.sys
+
+What is the name of the abstract layer that resides on top of a complete file system, 
+allows client application to access various file ssytems, and consists of a dispatching layer and numerous caches?
+Virtual file system.
+
+What information held by the superblock contains major and minor items that allow the mounting code to determine whether or not supported features are available
+to the file system? Revision Level
+
+Which file system used in Linux was developed by Stephen Tweedie in 2001 as a journaling file system that improved reliability of the system?
+EXT3. Dugg EXT2 no journaling. No journaling not much forensics. 
+
+How many bit values does HFS use to address allocation blocks? 16
+
+
+
+
 
